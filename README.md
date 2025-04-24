@@ -15,6 +15,7 @@ This project is ment to explore how teleworking and working from home can affect
 
 Both Of these datsets are stored on this GitHub in the folder `DataSets/`.
 All 4 .csv dataset files are exported from the dataset files [telework-tables-2025-03.xlsx]() and [WFHtimeseries_monthly.xlsx]() files.
+
 The [telework-tables-2025-03.xlsx](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables-2025-03.xlsx) dataset holds:
 - [telework-tables(Average_hours)-2025-March-(T4).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables(Average_hours)-2025-March-(T4).csv)
 - [telework-tables(Telework_Status)-2025-March-(T1).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables(Telework_Status)-2025-March-(T1).csv)
