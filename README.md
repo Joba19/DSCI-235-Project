@@ -14,6 +14,14 @@ This project is ment to explore how teleworking and working from home can affect
 - [WFH Research](https://wfhresearch.com/)
 
 Both Of these datsets are stored on this GitHub in the folder `DataSets/`.
+All 4 .csv dataset files are exported from the dataset files [telework-tables-2025-03.xlsx]() and [WFHtimeseries_monthly.xlsx]() files.
+The [telework-tables-2025-03.xlsx](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables-2025-03.xlsx) dataset holds:
+- [telework-tables(Average_hours)-2025-March-(T4).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables(Average_hours)-2025-March-(T4).csv)
+- [telework-tables(Telework_Status)-2025-March-(T1).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/telework-tables(Telework_Status)-2025-March-(T1).csv)
+
+The [WFHtimeseries_monthly.xlsx](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/WFHtimeseries_monthly.xlsx) dataset holds:
+- [WFHtimeseries_monthly_(Before-During_COVID).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/WFHtimeseries_monthly_(Before-During_COVID).csv)
+- [WFHtimeseries_monthly_(Indrustry).csv](https://github.com/Joba19/DSCI-235-Project/tree/main/DataSets/WFHtimeseries_monthly_(Indrustry).csv)
 
 `Project.ipynb` is the Jupyter Notebook containing the code, visuals, and analysis.
 `DataSets/` is the folder holding all the datasets used in the analysis.
